@@ -618,7 +618,7 @@ tar xvf file.tar
 
 
 
-43. Linux目录结构基础  
+### 43. Linux目录结构基础  
 
 * bin
 
